@@ -10,5 +10,3 @@ $ node server/server.js
 
 #for working app
 http://localhost:7777/index.html
-
-hmm
